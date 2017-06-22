@@ -32,3 +32,11 @@ cd demo
 
 Pre-processed data (for stage1) is available for download from: [Basic dataset for training](https://cloud.mail.ru/public/AqBM/dYhCgs4V5) and [Additional data](https://cloud.mail.ru/public/HYUS/PFwexrDuC)
 
+#### And at the end of **EPIC FAIL** ... :(
+![EPIC FAIL #1](img/epic_fail_1.png)
+
+![EPIC FAIL #1](img/epic_fail_2.png)
+
+
+
+
