@@ -1,0 +1,12 @@
+path,type
+imgs/10000.jpg,-1
+imgs/10001.jpg,-1
+imgs/10002.jpg,-1
+imgs/10003.jpg,-1
+imgs/10004.jpg,-1
+imgs/10005.jpg,-1
+imgs/10006.jpg,-1
+imgs/10007.jpg,-1
+imgs/10008.jpg,-1
+imgs/10009.jpg,-1
+imgs/10010.jpg,-1
