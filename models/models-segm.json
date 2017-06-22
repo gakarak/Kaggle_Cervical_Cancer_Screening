@@ -1,0 +1,26 @@
+{
+	"cervix": {
+		"loss": [
+			"segm/idx.txt_fold0_trn.csv_model_fcn_cervix_EXT2_valLoss_v2.h5",
+			"segm/idx.txt_fold1_trn.csv_model_fcn_cervix_EXT2_valLoss_v2.h5",
+			"segm/idx.txt_fold2_trn.csv_model_fcn_cervix_EXT2_valLoss_v2.h5"
+		],
+		"acc": [
+			"segm/idx.txt_fold0_trn.csv_model_fcn_cervix_EXT2_valAcc_v2.h5",
+			"segm/idx.txt_fold1_trn.csv_model_fcn_cervix_EXT2_valAcc_v2.h5",
+			"segm/idx.txt_fold2_trn.csv_model_fcn_cervix_EXT2_valAcc_v2.h5"
+		]
+	},
+	"channel": {
+		"loss": [
+			"segm/idx.txt_fold0_trn.csv_model_fcn_CHANNEL_EXT2_valLoss_v1.h5",
+			"segm/idx.txt_fold1_trn.csv_model_fcn_CHANNEL_EXT2_valLoss_v1.h5",
+			"segm/idx.txt_fold2_trn.csv_model_fcn_CHANNEL_EXT2_valLoss_v1.h5"
+		],
+		"acc": [
+			"segm/idx.txt_fold0_trn.csv_model_fcn_CHANNEL_EXT2_valAcc_v1.h5",
+			"segm/idx.txt_fold1_trn.csv_model_fcn_CHANNEL_EXT2_valAcc_v1.h5",
+			"segm/idx.txt_fold2_trn.csv_model_fcn_CHANNEL_EXT2_valAcc_v1.h5"
+		]
+	}
+}

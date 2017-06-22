@@ -1,0 +1,18 @@
+{
+	"cls": {
+		"loss": [
+			"cls-stage2-add-nover-it1/idx.txt_fold0_trn.csv_model_CNNCLS_EXT3_valLoss_v1.h5",
+			"cls-stage2-add-nover-it1/idx.txt_fold1_trn.csv_model_CNNCLS_EXT3_valLoss_v1.h5",
+			"cls-stage2-add-nover-it1/idx.txt_fold2_trn.csv_model_CNNCLS_EXT3_valLoss_v1.h5",
+			"cls-stage2-add-nover-it1/idx.txt_fold3_trn.csv_model_CNNCLS_EXT3_valLoss_v1.h5",
+			"cls-stage2-add-nover-it1/idx.txt_fold4_trn.csv_model_CNNCLS_EXT3_valLoss_v1.h5"
+		],
+		"acc": [
+			"cls-stage2-add-nover-it1/idx.txt_fold0_trn.csv_model_CNNCLS_EXT3_valAcc_v1.h5",
+			"cls-stage2-add-nover-it1/idx.txt_fold1_trn.csv_model_CNNCLS_EXT3_valAcc_v1.h5",
+			"cls-stage2-add-nover-it1/idx.txt_fold2_trn.csv_model_CNNCLS_EXT3_valAcc_v1.h5",
+			"cls-stage2-add-nover-it1/idx.txt_fold3_trn.csv_model_CNNCLS_EXT3_valAcc_v1.h5",
+			"cls-stage2-add-nover-it1/idx.txt_fold4_trn.csv_model_CNNCLS_EXT3_valAcc_v1.h5"
+		]
+	}
+}
